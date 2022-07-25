@@ -1,0 +1,36 @@
+* { 
+  text-align: center;
+}
+
+.header1 {
+  color: red;
+}
+
+.header2 {
+  color: blue;
+}
+
+.header3 {
+  text-transform: uppercase;
+}
+
+.hello {
+  text-decoration: underline;
+  color: #83baf9
+}
+
+.world {
+  color: #a219ac;
+  text-decoration: overline;
+}
+
+.helloWorldSection > * {
+  margin: 2px;
+  color: rgb(80, 255, 179);
+  background-color: black;
+  height: 100%;
+}
+footer {
+  background-color: #eee;
+  width: 100%;
+}
